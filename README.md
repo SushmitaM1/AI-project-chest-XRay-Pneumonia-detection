@@ -1,5 +1,5 @@
 # AI_chest-XRay_Pneumonia_Detection
-This repository contains my python jupyter notebooks for udacity project "Pneumonia detection from 2D chest XRays". The "FDA submission final.pdf" file contains summary of my project.
+This repository contains my python jupyter notebooks for udacity project "Pneumonia detection from 2D chest XRays". The "FDA_submission_final(1).pdf" file contains summary of my project.
 
 Data for this project is from kaggle (nih chest Xray data)
 
